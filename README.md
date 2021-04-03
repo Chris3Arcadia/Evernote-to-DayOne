@@ -27,5 +27,6 @@ Aside from the Python libraries loaded at the top of the script, the following a
 
 ## License
 
-Copyright © 2021, Christopher E. Arcadia
+Copyright © 2021, Christopher E. Arcadia, [MIT License](LICENSE)
+
 
