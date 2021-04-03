@@ -2,7 +2,7 @@
 
 A Python Script for migrating notes from Evernote to Day One.
 
-Evernote notes (exported as HTML files) are converted to DayOne notes (as Markdown entries) using Day One's official command line interface. 
+Evernote notes (exported as HTML files) are converted to DayOne notes (as Markdown entries) using Pandoc and Day One's official command line interface. 
 
 Most of the original note data is preserved, including media files, time stamps, and locations.
 
