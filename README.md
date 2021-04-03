@@ -12,10 +12,10 @@ Written by Chris Arcadia on December 26, 2020.
 
 Aside from the Python libraries loaded at the top of the script, the following applications must be installed on your Mac:
 
-* [Evernote](https://evernote.com) App: "Accomplish more with better notes."
-* [Day One](https://dayoneapp.com) App: "Your journal for life."
-* [Day One Command Line Interface (CLI)](https://help.dayoneapp.com/en/articles/435871-command-line-interface-cli) : get by running the following command in Terminal (after installing Day One): `sudo bash /Applications/Day\ One.app/Contents/Resources/install_cli.sh`
-* [Pandoc](https://pandoc.org/installing.html) Document Converter: get by downloading the latest macOS package on [GitHub](https://github.com/jgm/pandoc/releases/).
+* [Evernote](https://evernote.com) App : "Accomplish more with better notes."
+* [Day One](https://dayoneapp.com) App : "Your journal for life."
+* [Day One Command Line Interface (CLI)](https://help.dayoneapp.com/en/articles/435871-command-line-interface-cli) : get by running the following command in Terminal (after installing Day One) : `sudo bash /Applications/Day\ One.app/Contents/Resources/install_cli.sh`
+* [Pandoc](https://pandoc.org/installing.html) Document Converter : get by downloading the latest macOS package on [GitHub](https://github.com/jgm/pandoc/releases/).
 
 ## Usage
 
